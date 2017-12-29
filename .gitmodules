@@ -1,0 +1,12 @@
+[submodule "numix-core"]
+	path = numix-core
+	url = https://github.com/numixproject/numix-core.git
+[submodule "numix-icon-theme-circle"]
+	path = numix-icon-theme-circle
+	url = https://github.com/numixproject/numix-icon-theme-circle.git
+[submodule "numix-icon-theme-square"]
+	path = numix-icon-theme-square
+	url = https://github.com/numixproject/numix-icon-theme-square.git
+[submodule "numix-icon-theme"]
+	path = numix-icon-theme
+	url = https://github.com/numixproject/numix-icon-theme.git
